@@ -8,14 +8,10 @@
 }
 
 .skills {
-    height: 40%;
-    width: 40%;
+    height: 155px;
+    width: 155px;
     margin-left: 12px;
     outline-color: white;
-}
-
-.test {
-    width: 500px;
 }
 
 
