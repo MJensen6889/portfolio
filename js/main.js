@@ -94,10 +94,11 @@ $('.chart').waypoint(function() {
 	
 		$.vegas('slideshow', {
 			  backgrounds:[
-				
-				{ src:'img/slider/01.jpg', fade:1000 },
+
+
+                { src:'img/slider/family.jpg', fade:1000 },
+                { src:'img/slider/university.jpg', fade:1000 },
 				{ src:'img/slider/02.jpg', fade:1000 },
-				{ src:'img/slider/03.jpg', fade:1000 },
 				{ src:'img/slider/04.jpg', fade:1000 }
 			  ]
 			})('overlay', {
@@ -134,8 +135,7 @@ $('.chart').waypoint(function() {
             element.text('OK!').addClass('valid')
                 .closest('.control-group').removeClass('error').addClass('success');
         }
-    }); 
-
+    });
 
 
 });

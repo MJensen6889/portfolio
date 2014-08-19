@@ -1,0 +1,21 @@
+.page-skills {
+    background-color: black;
+    background-attachment: fixed;
+}
+
+#skills-header {
+    color: white;
+}
+
+.skills {
+    height: 40%;
+    width: 40%;
+    margin-left: 12px;
+    outline-color: white;
+}
+
+.test {
+    width: 500px;
+}
+
+
