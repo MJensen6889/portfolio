@@ -8,10 +8,16 @@
 }
 
 .skills {
-    height: 155px;
-    width: 155px;
+    height: 125px;
+    width: 125px;
     margin-left: 12px;
     outline-color: white;
 }
+
+.section-subtitle {
+    font-size: 22pt !important;
+    color: green;
+}
+
 
 
