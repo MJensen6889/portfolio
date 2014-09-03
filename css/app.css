@@ -19,5 +19,13 @@
     color: green;
 }
 
+.col-md-9 {
+    font-size: 14pt
+}
+
+.page-portfolio {
+    background: none !important;
+}
+
 
 
