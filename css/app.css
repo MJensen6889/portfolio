@@ -1,10 +1,10 @@
 .page-skills {
-    background-color: black;
-    background-attachment: fixed;
+    background-color: #2E2E2E !important;
+    /*background-attachment: fixed;*/
 }
 
 #skills-header {
-    color: white;
+
 }
 
 .skills {
@@ -16,7 +16,6 @@
 
 .section-subtitle {
     font-size: 22pt !important;
-    color: green;
 }
 
 .col-md-9 {
@@ -27,5 +26,45 @@
     background: none !important;
 }
 
+#portfolio-title {
+    color: white;
+}
 
+#portfolio-subtitle{
+    color: white;
+}
+
+.prof-desc {
+    font-size: 1.5em;
+}
+
+.edu-desc {
+    font-size: 1.5em;
+}
+
+.work-desc {
+    font-size: 1.25em;
+    text-align: justify;
+    color: #000000;
+}
+
+.work-title {
+    font-size: 1.5em;
+    color: #FF4D00;
+    text-align: center;
+}
+
+.work-comp-name {
+    text-align: center;
+}
+
+.page-experience {
+    /*background-image: url('http://www.officinegm.com/wp-content/uploads/2013/10/background-light-white.jpg') !important;*/
+    background-image: url('img/Snow.jpg') !important;
+    background-size: 100% !important;
+}
+
+a:hover{
+    font-size: 1.5em !important;
+}
 
