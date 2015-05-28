@@ -45,11 +45,11 @@
 .work-desc {
     font-size: 1.25em;
     text-align: justify;
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .work-title {
-    font-size: 1.5em;
+    font-size: 1.25em;
     color: #FF4D00;
     text-align: center;
 }
@@ -60,11 +60,11 @@
 
 .page-experience {
     /*background-image: url('http://www.officinegm.com/wp-content/uploads/2013/10/background-light-white.jpg') !important;*/
-    background-image: url('img/Snow.jpg') !important;
-    background-size: 100% !important;
+    /*background-image: url('img/Snow.jpg') ;*/
+    /*background-size: 100% ;*/
+    /*background-image: url('/img/lightBackground.jpg') !important;*/
+    /*background-size: 100% !important;*/
+    color: #FFFFFF;
 }
 
-a:hover{
-    font-size: 1.5em !important;
-}
 
